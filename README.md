@@ -33,22 +33,6 @@ Para ejecutar la aplicación principal, utiliza el siguiente comando:
 
 ## Estructura del Proyecto
 
-.
-├── pom.xml
-├── README.md
-├── src
-│   ├── main
-│   │   └── java
-│   │       ├── resources
-│   │       │   ├── Cliente.java
-│   │       │   ├── Cuenta.java
-│   │       │   └── Seguro.java
-│   │       └── Main.java
-│   └── test
-│       └── java
-│           └── MainTest.java
-
-
 - `pom.xml`: Archivo de configuración de Maven.
 - `src/main/java/resources`: Contiene las clases de recursos `Cliente`, `Cuenta` y `Seguro`.
 - `src/main/java`: Contiene la clase principal `Main`.
